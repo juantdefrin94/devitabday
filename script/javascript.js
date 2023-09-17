@@ -18,6 +18,6 @@ function checkPassword(){
         alert("Cie bukan depita")
     }
     else {
-        window.location.pathname = "/second.html";
+        window.location.pathname = "/page/second.html";
     }
 }
